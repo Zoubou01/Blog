@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Easy Blog",
+      "body": "How to make it",
+      "author": "Zoubou",
+      "id": 1
+    },
+    {
+      "title": "Kalhspera",
+      "body": "How to make it",
+      "author": "Elenh",
+      "id": 2
+    }
+  ]
+}
